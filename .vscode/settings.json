@@ -1,6 +1,0 @@
-{
-    "python.formatting.provider": "black",
-    "yaml.schemas": {
-        "https://json.schemastore.org/pre-commit-config.json": "file:///home/indreshp/Desktop/deltaeplus/.pre-commit-config.yaml"
-    }
-}
